@@ -42,5 +42,8 @@
     "caz": "0.7.0",
     "jest": "27.0.6",
     "standard": "16.0.3"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.1"
   }
 }
